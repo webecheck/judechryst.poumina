@@ -3,7 +3,7 @@ title: "Assistant Administrateur Systèmes & Réseaux — GMG Formation"
 date: 2025-01-01
 company: "GMG Formation"
 location: "Paris, France"
-image: "/assets/img/exp-gmg.jpg"
+image: "/img/exper7.jpeg"
 ---
 
 Missions principales :
@@ -17,7 +17,7 @@ Missions principales :
 Participation au maintien d’un environnement IT stable et sécurisé dans le cadre du Master 1 ERIS.
 
 📸 *Illustration du poste :*  
-![GMG Formation](/assets/img/exp-gmg.jpg)
+![GMG Formation](/img/exper1.jpeg)
 ![GMG Formation](/assets/img/exp-gmg.jpg)
 ![GMG Formation](/assets/img/exp-gmg.jpg)
 ![GMG Formation](/assets/img/exp-gmg.jpg)
