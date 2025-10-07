@@ -120,3 +120,11 @@ Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une
 
 
 
+## 🧰 Expériences professionnelles
+
+### 2025 — Assistant Administrateur Systèmes & Réseaux (GMG Formation)
+**Missions :**
+- Gestion et supervision des serveurs Windows/Linux  
+- Configuration pare-feu et surveillance réseau  
+- Gestion Active Directory & cloud  
+📸 ![GMG Formation](
