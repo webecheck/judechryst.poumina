@@ -11,15 +11,16 @@ De l’installation de serveurs **Linux/Windows** à la sécurisation d’infras
 
 Toujours en quête de perfectionnement, je m’autoforme en continu (recherches, tests en lab, rédaction de guides complets d’administration et de sécurité).
 
---> Bac+4 Actuellement en **Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)
+### Ma formation
+--> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)  **Année 2025**
 
---> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)
+--> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)  **Année 2025**
 
---> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)
+--> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)  **Année 2024**
 
---> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)
+--> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)  **Année 2023**
 
---> Bac F1 **Construction Mécanique**      (CONGO)
+--> Bac F1 **Construction Mécanique**      (CONGO)  **Année 2018**
 
 #### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
 
@@ -108,4 +109,4 @@ Format : Numérique + PDF (bientôt disponible en ligne)
 
 ### Citation personnelle
 
-“Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une nouvelle compétence acquise.”
+Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une nouvelle compétence acquise.
