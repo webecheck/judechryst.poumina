@@ -125,4 +125,4 @@ Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une
 
 ### 2025 — [Assistant Administrateur Systèmes & Réseaux — GMG Formation](https://github.com/webecheck/judechryst.poumina/blob/main/_experiences/experience1.md)
 
-### 2024 — [Technicien Informatique — Communauté Saint-Louis Grandchamp]()
+### 2024 — [Technicien Informatique — Communauté Saint-Louis Grandchamp](https://github.com/webecheck/judechryst.poumina/blob/main/_experiences/experience2.md)
