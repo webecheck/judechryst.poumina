@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Poumina Mabonzo Jude Chryst Degilles
+# 👋 Salut, moi c’est POUMINA MABONZO Jude Chryst Degilles
 
 🎓 Master 1 ERIS (Expert en Réseaux, Infrastructure et Sécurité)
 💻 *Administrateur Systèmes & Réseaux | Futur Ingénieur Cybersécurité |
@@ -16,42 +16,42 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 ## 🧠 Compétences techniques
 ### 🖥️ Systèmes d’exploitation
 
-Windows Server (AD, DNS, DHCP, GPO, WSUS)
+**Windows Server** (AD, DNS, DHCP, GPO, WSUS)
 
-Linux (Ubuntu, Debian, CentOS)
+**Linux** (Ubuntu, Debian, CentOS)
 
 
 ### 🌐 Réseaux & Sécurité
 
-VLAN, routage, pare-feu, supervision (SNMP, Zabbix)
+**VLAN, routage, pare-feu, supervision** (SNMP, Zabbix)
 
-Sécurisation des accès (VPN, authentification, durcissement)
+**Sécurisation des accès** (VPN, authentification, durcissement)
 
-Surveillance et gestion des incidents
+**Surveillance et gestion des incidents**
 
 ### ☁️ Virtualisation & Cloud
 
-VMware | Hyper-V | Proxmox | VirtualBox
+**VMware | Hyper-V | VirtualBox**
 
-Azure, AWS (notions d’administration Cloud)
+**Azure, AWS** (notions d’administration Cloud)
 
-Sauvegarde, restauration et haute disponibilité
+**Sauvegarde, restauration et haute disponibilité**
 
 ### ⚙️ Automatisation & Scripting
 
-Bash / Linux Shell
+**Bash / Linux Shell**
 
-PowerShell
+**PowerShell**
 
-Automatisation des tâches d’administration
+**Automatisation des tâches d’administration**
 
 ### 🧰 Outils & Technologies
 
-Active Directory | Office 365 | Intune
+**Active Directory | Office 365**
 
-Docker | Git | GitHub Actions
+**Git | GitHub Actions**
 
-OCS Inventory | GLPI | pfSense | Wireshark
+**OCS Inventory | GLPI | pfSense | Zabbix | Nagios | | Wireshark**
 
 ## 🧩 Projets sélectionnés
 
