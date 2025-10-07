@@ -123,5 +123,5 @@ Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une
 ## 🧰 Expériences professionnelles
 
 
-### 2025 — [Assistant Administrateur Systèmes & Réseaux — GMG Formation](experiences/experience1.md)
+### 2025 — [Assistant Administrateur Systèmes & Réseaux — GMG Formation](/experiences/experience1.md)
 
