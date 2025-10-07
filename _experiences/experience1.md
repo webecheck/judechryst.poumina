@@ -1,5 +1,4 @@
-
-title: "Assistant Administrateur Systèmes & Réseaux — GMG Formation"
+**title: "Assistant Administrateur Systèmes & Réseaux — GMG Formation"**
 date: 2025-01-01
 company: "GMG Formation"
 location: "Paris, France"
@@ -18,7 +17,11 @@ Participation au maintien d’un environnement IT stable et sécurisé dans le c
 
 📸 *Illustration du poste :*  
 ![GMG Formation](/img/exper1.jpeg)
-![GMG Formation](/assets/img/exp-gmg.jpg)
-![GMG Formation](/assets/img/exp-gmg.jpg)
-![GMG Formation](/assets/img/exp-gmg.jpg)
-
+![GMG Formation](/img/exper2.jpeg)
+![GMG Formation](/img/exper3.jpeg)
+![GMG Formation](/img/exper4.jpeg)
+![GMG Formation](/img/exper5.jpeg)
+![GMG Formation](/img/exper6.jpeg)
+![GMG Formation](/img/exper8.jpeg)
+![GMG Formation](/img/exper9.jpeg)
+![GMG Formation](/img/exper10.jpeg)
