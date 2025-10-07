@@ -6,10 +6,16 @@
 
 ## 🚀 À propos de moi
 
-Passionné d’informatique depuis mes débuts, j’ai construit un parcours solide dans les systèmes, réseaux et la cybersécurité.
-De l’installation de serveurs Linux/Windows à la sécurisation d’infrastructures, j’aime comprendre, structurer et automatiser les environnements techniques.
+Passionné d’informatique depuis mes débuts, j’ai construit un parcours solide dans les **systèmes, réseaux et la cybersécurité**.
+De l’installation de serveurs **Linux/Windows** à la sécurisation d’infrastructures, j’aime comprendre, structurer et automatiser les environnements techniques.
 
 Toujours en quête de perfectionnement, je m’autoforme en continu (recherches, tests en lab, rédaction de guides complets d’administration et de sécurité).
+
+--> Bac+4 Actuellement en **Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)
+--> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)
+--> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)
+--> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)
+--> Bac F1 **Construction Mécanique**      (CONGO)
 
 #### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
 
