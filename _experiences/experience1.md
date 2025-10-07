@@ -1,12 +1,9 @@
 **title: "Assistant Administrateur Systèmes & Réseaux — GMG Formation"**
 
 date: 2025-01-01
-
 company: "GMG Formation"
-
 location: "Paris, France"
 
-image: "/img/exper7.jpeg"
 
 
 Missions principales :
