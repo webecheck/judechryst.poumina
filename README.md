@@ -28,9 +28,9 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 # 🧠 Compétences techniques
 ## 🖥️ Systèmes d’exploitation
 
-**Windows Server* (AD, DNS, DHCP, GPO, WSUS)
+**Windows Server* (AD, DNS, DHCP, GPO, WSUS,MDS/WDS)
 
-**Linux* (Ubuntu, Debian, CentOS)
+**Linux* (Ubuntu, Debian)
 
 
 ## 🌐 Réseaux & Sécurité
@@ -44,7 +44,7 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 ## ☁️ Virtualisation & Cloud
 
-**VMware | Hyper-V | VirtualBox*
+**VMware / VirtualBox*
 
 **Azure, AWS* (notions d’administration Cloud)
 
@@ -62,11 +62,11 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 ## 🧰 Outils & Technologies
 
-**Active Directory | Office 365*
+**Active Directory / Office 365*
 
-**Git | GitHub Actions*
+**Git / GitHub Actions*
 
-**OCS Inventory | GLPI | pfSense | Zabbix | Nagios | | Wireshark*
+**OCS Inventory / GLPI / pfSense / Zabbix / Nagios / Wireshark*
 
 
 # 🧩 Projets sélectionnés
@@ -120,7 +120,7 @@ Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une
 
 
 
-## 🧰 Expériences professionnelles
+# 🧰 Expériences professionnelles
 
 
 ### 2025 — [Assistant Administrateur Systèmes & Réseaux — GMG Formation](https://github.com/webecheck/judechryst.poumina/blob/main/_experiences/experience1.md)
