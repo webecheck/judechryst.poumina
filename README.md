@@ -55,6 +55,7 @@ Docker | Git | GitHub Actions
 OCS Inventory | GLPI | pfSense | Wireshark
 
 🧩 Projets sélectionnés
+
 🔹 Guide complet d’installation et de configuration serveur DHCP/DNS – Ubuntu 22.04
 
 Configuration d’un serveur DHCP/DNS, sécurisation, supervision via SNMP et automatisation des sauvegardes.
