@@ -12,51 +12,55 @@ De l’installation de serveurs **Linux/Windows** à la sécurisation d’infras
 Toujours en quête de perfectionnement, je m’autoforme en continu (recherches, tests en lab, rédaction de guides complets d’administration et de sécurité).
 
 ### Ma formation
---> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)  **Année 2025**
 
---> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)  **Année 2025**
+--> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027**
 
---> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)  **Année 2024**
+--> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)    **Année 2025**
 
---> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)  **Année 2023**
+--> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)    **Année 2024**
 
---> Bac F1 **Construction Mécanique**      (CONGO)  **Année 2018**
+--> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)    **Année 2023**
+
+--> Bac F1 **Construction Mécanique**      (CONGO)    **Année 2018**
 
 #### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
 
-## 🧠 Compétences techniques
-### 🖥️ Systèmes d’exploitation
+# 🧠 Compétences techniques
+## 🖥️ Systèmes d’exploitation
 
 **Windows Server** (AD, DNS, DHCP, GPO, WSUS)
 
 **Linux** (Ubuntu, Debian, CentOS)
 
 
-### 🌐 Réseaux & Sécurité
+## 🌐 Réseaux & Sécurité
 
-**VLAN, routage, pare-feu, supervision** (SNMP, Zabbix)
+**VLAN, routage, pare-feu, supervision* (SNMP, Zabbix)
 
-**Sécurisation des accès** (VPN, authentification, durcissement)
+**Sécurisation des accès* (VPN, authentification, durcissement)
 
-**Surveillance et gestion des incidents**
+**Surveillance et gestion des incidents*
 
-### ☁️ Virtualisation & Cloud
 
-**VMware | Hyper-V | VirtualBox**
+## ☁️ Virtualisation & Cloud
 
-**Azure, AWS** (notions d’administration Cloud)
+**VMware | Hyper-V | VirtualBox*
 
-**Sauvegarde, restauration et haute disponibilité**
+**Azure, AWS* (notions d’administration Cloud)
 
-### ⚙️ Automatisation & Scripting
+**Sauvegarde, restauration et haute disponibilité*
 
-**Bash / Linux Shell**
 
-**PowerShell**
+## ⚙️ Automatisation & Scripting
 
-**Automatisation des tâches d’administration**
+**Bash / Linux Shell*
 
-### 🧰 Outils & Technologies
+**PowerShell*
+
+**Automatisation des tâches d’administration*
+
+
+## 🧰 Outils & Technologies
 
 **Active Directory | Office 365**
 
@@ -64,7 +68,8 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 **OCS Inventory | GLPI | pfSense | Zabbix | Nagios | | Wireshark**
 
-## 🧩 Projets sélectionnés
+
+# 🧩 Projets sélectionnés
 
 ### 🔹 Guide complet d’installation et de configuration serveur DHCP/DNS – Ubuntu 22.04
 
@@ -99,6 +104,7 @@ Format : Numérique + PDF (bientôt disponible en ligne)
 
 ### 🧪 Je construis un lab de test personnel (AD, DHCP, DNS, WSUS, pfSense, Azure Hybrid)
 
+
 ## 📫 Me contacter
 
 📧 Email : judechrystpoums@gmail.com
@@ -110,3 +116,7 @@ Format : Numérique + PDF (bientôt disponible en ligne)
 ### Citation personnelle
 
 Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une nouvelle compétence acquise.
+
+
+
+
