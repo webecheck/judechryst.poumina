@@ -4,3 +4,25 @@ description: "Portfolio Master ERIS"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
+
+# 📂 Collections personnalisées
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  experiences:
+    output: true
+    permalink: /experiences/:name
+
+    # 🧭 Menu de navigation (liens en haut du portfolio)
+nav:
+  - title: "🏠 Accueil"
+    url: /
+  - title: "💼 Projets"
+    url: /projects
+  - title: "🧰 Expériences"
+    url: /experiences
+  - title: "📚 Formation"
+    url: /education
+  - title: "📫 Contact"
+    url: /contact
