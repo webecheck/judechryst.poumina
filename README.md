@@ -12,9 +12,13 @@ De l’installation de serveurs **Linux/Windows** à la sécurisation d’infras
 Toujours en quête de perfectionnement, je m’autoforme en continu (recherches, tests en lab, rédaction de guides complets d’administration et de sécurité).
 
 --> Bac+4 Actuellement en **Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)
+
 --> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)
+
 --> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)
+
 --> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)
+
 --> Bac F1 **Construction Mécanique**      (CONGO)
 
 #### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
