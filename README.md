@@ -13,24 +13,24 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 ### Ma formation
 
---> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027**
+--> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027*
 
---> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)    **Année 2025**
+--> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)    **Année 2025*
 
---> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)    **Année 2024**
+--> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)    **Année 2024*
 
---> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)    **Année 2023**
+--> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)    **Année 2023*
 
---> Bac F1 **Construction Mécanique**      (CONGO)    **Année 2018**
+--> Bac F1 **Construction Mécanique**      (CONGO)    **Année 2018*
 
 #### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
 
 # 🧠 Compétences techniques
 ## 🖥️ Systèmes d’exploitation
 
-**Windows Server** (AD, DNS, DHCP, GPO, WSUS)
+**Windows Server* (AD, DNS, DHCP, GPO, WSUS)
 
-**Linux** (Ubuntu, Debian, CentOS)
+**Linux* (Ubuntu, Debian, CentOS)
 
 
 ## 🌐 Réseaux & Sécurité
@@ -62,11 +62,11 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 ## 🧰 Outils & Technologies
 
-**Active Directory | Office 365**
+**Active Directory | Office 365*
 
-**Git | GitHub Actions**
+**Git | GitHub Actions*
 
-**OCS Inventory | GLPI | pfSense | Zabbix | Nagios | | Wireshark**
+**OCS Inventory | GLPI | pfSense | Zabbix | Nagios | | Wireshark*
 
 
 # 🧩 Projets sélectionnés
@@ -89,7 +89,7 @@ Technos : SNMP, Zabbix, Bash scripting
 ### 🔹 Automatisation de maintenance et mise à jour des postes utilisateurs
 
 Scripts PowerShell et Bash pour gérer les mises à jour Windows/Linux et la maintenance préventive.
-Technos : PowerShell, Bash, WSUS, Cron
+Technos : PowerShell, Bash, WSUS
 
 ### 🔹 Documentation et guide professionnel IT – Projet personnel
 
@@ -109,9 +109,9 @@ Format : Numérique + PDF (bientôt disponible en ligne)
 
 📧 Email : judechrystpoums@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/poumina-jude
+💼 LinkedIn : www.linkedin.com/in/judechrystpoums
 
-💻 Portfolio : https://github.com/ziyoupoums
+💻 Portfolio : https://webecheck.github.io/judechryst.poumina/
 
 ### Citation personnelle
 
