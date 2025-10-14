@@ -11,7 +11,7 @@ De l’installation de serveurs **Linux/Windows** à la sécurisation d’infras
 
 Toujours en quête de perfectionnement, je m’autoforme en continu (recherches, tests en lab, rédaction de guides complets d’administration et de sécurité).
 
-### Ma formation
+## Formations
 
 — Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027*
 
@@ -46,7 +46,7 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 **VMware / VirtualBox*
 
-**Azure, AWS* (notions d’administration Cloud)
+**Azure, AWS* (notions d’administration Cloud) **Toujours en cours*
 
 **Sauvegarde, restauration et haute disponibilité*
 
@@ -112,6 +112,10 @@ Format : Numérique + PDF (bientôt disponible en ligne)
 💼 LinkedIn : www.linkedin.com/in/judechrystpoums
 
 💻 Portfolio : https://webecheck.github.io/judechryst.poumina/
+
+🗂️ Carnet - techniques : https://github.com/webecheck/mon-carnet-technique
+
+📞 Tél : +33 7 45 41 92 71
 
 ### Citation personnelle
 
