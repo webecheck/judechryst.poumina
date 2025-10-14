@@ -1,10 +1,10 @@
-# 👋 Salut, moi c’est POUMINA MABONZO Jude Chryst Degilles
+# Bonjour Je m'appelle POUMINA MABONZO Jude Chryst Degilles
 
-🎓 Master 1 ERIS (Expert en Réseaux, Infrastructure et Sécurité)
-💻 *Administrateur Systèmes & Réseaux | Futur Ingénieur Cybersécurité |
+Master 1 ERIS (Expert en Réseaux, Infrastructure et Sécurité)
+*Administrateur Systèmes & Réseaux | Futur Ingénieur Cybersécurité |
 📍 Basé à Paris, France
 
-## 🚀 À propos de moi
+## Me connaitre plus
 
 Passionné d’informatique depuis mes débuts, j’ai construit un parcours solide dans les **systèmes, réseaux et la cybersécurité**.
 De l’installation de serveurs **Linux/Windows** à la sécurisation d’infrastructures, j’aime comprendre, structurer et automatiser les environnements techniques.
@@ -13,27 +13,27 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 
 ### Ma formation
 
---> Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027*
+— Bac+4 **Actuellement en Mastère ERIS - Expert Réseaux d'Infrastructures et sécurité**    (France - Levallois Péret)    **Année 2027*
 
---> Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)    **Année 2025*
+— Bac+3 **Diplome AIS - Administrateur d'infrastructure sécurisée**    (France - Levallois Péret)    **Année 2025*
 
---> Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)    **Année 2024*
+— Bac+2 **Diplome TSSR - Téchnicien Supérieur Systèmes et Réseaux**    (France - Levallois Péret)    **Année 2024*
 
---> Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)    **Année 2023*
+— Bac+2 **Passage d'examen BTS SIO**     (France - vincennes)    **Année 2023*
 
---> Bac F1 **Construction Mécanique**      (CONGO)    **Année 2018*
+— Bac F1 **Construction Mécanique**      (CONGO)    **Année 2018*
 
-#### 💡 Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
+####  Mon objectif : concevoir, sécuriser et optimiser des infrastructures IT modernes et fiables.
 
-# 🧠 Compétences techniques
-## 🖥️ Systèmes d’exploitation
+#  Compétences techniques
+##  Systèmes d’exploitation
 
 **Windows Server* (AD, DNS, DHCP, GPO, WSUS,MDS/WDS)
 
 **Linux* (Ubuntu, Debian)
 
 
-## 🌐 Réseaux & Sécurité
+##  Réseaux & Sécurité
 
 **VLAN, routage, pare-feu, supervision* (SNMP, Zabbix)
 
@@ -42,7 +42,7 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 **Surveillance et gestion des incidents*
 
 
-## ☁️ Virtualisation & Cloud
+##  Virtualisation & Cloud
 
 **VMware / VirtualBox*
 
@@ -60,7 +60,7 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 **Automatisation des tâches d’administration*
 
 
-## 🧰 Outils & Technologies
+##  Outils & Technologies
 
 **Active Directory / Office 365*
 
@@ -69,7 +69,7 @@ Toujours en quête de perfectionnement, je m’autoforme en continu (recherches,
 **OCS Inventory / GLPI / pfSense / Zabbix / Nagios / Wireshark*
 
 
-# 🧩 Projets sélectionnés
+#  Projets sélectionnés
 
 ### 🔹 Guide complet d’installation et de configuration serveur DHCP/DNS – Ubuntu 22.04
 
@@ -96,16 +96,16 @@ Technos : PowerShell, Bash, WSUS
 Création d’un guide numérique complet répertoriant les configurations, procédures et best practices en IT et cybersécurité.
 Format : Numérique + PDF (bientôt disponible en ligne)
 
-## 🌱 En ce moment...
+##  En ce moment...
 
-### 🎓 En formation Master 1 ERIS – Expert Réseaux Infrastructure & Sécurité
+###  En formation Master 1 ERIS – Expert Réseaux Infrastructure & Sécurité
 
-### 🔒 Je perfectionne mes connaissances en sécurité réseau et cloud hybride sécurisé
+###  Je perfectionne mes connaissances en sécurité réseau et cloud hybride sécurisé
 
-### 🧪 Je construis un lab de test personnel (AD, DHCP, DNS, WSUS, pfSense, Azure Hybrid)
+###  Je construis un lab de test personnel (AD, DHCP, DNS, WSUS, pfSense, Azure Hybrid)
 
 
-## 📫 Me contacter
+##  Me contacter
 
 📧 Email : judechrystpoums@gmail.com
 
@@ -120,7 +120,7 @@ Chaque commande tapée, chaque serveur monté et chaque erreur corrigée est une
 
 
 
-# 🧰 Expériences professionnelles
+#  Expériences professionnelles
 
 
 ### 2025 — [Assistant Administrateur Systèmes & Réseaux — GMG Formation](https://github.com/webecheck/judechryst.poumina/blob/main/_experiences/experience1.md)
